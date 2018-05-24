@@ -64,6 +64,9 @@ When we wrap strings in back ticks, we can use placeholders (`${}`) and insert v
 
 ```js
 var specialGuest = "Neil deGrasse Tyson";
+clear console
+clear_console
+
 
 `Hello, ${specialGuest}! High ${3 + 2}!` // "Hello, Neil deGrasse Tyson! High 5!"
 ```
